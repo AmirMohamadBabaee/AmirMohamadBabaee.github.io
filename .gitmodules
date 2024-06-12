@@ -3,4 +3,4 @@
 	url = https://github.com/iJinxin/hexo-theme-sky.git
 [submodule "themes/fengye"]
 	path = themes/fengye
-	url = https://github.com/chen-yingfa/hexo-theme-fengye.git
+	url = git@github.com:AmirMohamadBabaee/hexo-theme-fengye.git
