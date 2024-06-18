@@ -1,6 +1,7 @@
 ---
 author: Amir Mohammad Babaei
 title: 'SwinIR: Pioneering Image Restoration with Swin Transformers'
+date: 2024-06-12 15:29:12
 categories: 'Super Resolution'
 tag: 
 - Super Resolution
@@ -77,4 +78,8 @@ Residual connections and convolutions play a pivotal role in SwinIR:
 In summary, SwinIR represents a significant leap forward in image restoration technology, combining the best of both worlds: the local processing power of CNNs and the long-range dependency modeling of transformers. This synergy results in a highly efficient, flexible, and powerful image restoration model.
 
 Stay tuned for more updates as SwinIR continues to transform the landscape of computer vision!
+
+## References
+
+Liang, J., Cao, J., Sun, G., Zhang, K., Van Gool, L., & Timofte, R. (2021). *SwinIR: Image Restoration Using Swin Transformer*. Retrieved from arXiv:2108.10257 [eess.IV].
 
