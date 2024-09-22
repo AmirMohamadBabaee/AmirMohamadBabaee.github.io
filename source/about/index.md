@@ -1,144 +1,88 @@
 ---
----
-# 👨‍💻 Amir Mohammad Babaei
-
-__Computer Vision Engineer, Graduate Student of Computer Engineering__
-📍 Tehran, Iran | 🖥 [LinkedIn](https://www.linkedin.com/in/amirmohammad-babaei) | [GitHub](https://github.com/AmirMohamadBabaee) | [Email](mailto:amirmohamad.babaei79@gmail.com)
-
+layout: about
 ---
 
-## 🎯 Career Objective
+<p align="center">
+  <img src="/images/profile.jpeg" alt="" width="50%">
+</p>
 
-As an aspiring Computer Vision researcher, I leverage my strong academic foundation and hands-on experience in AI, image processing, and machine learning to contribute to innovative solutions. My journey has been shaped by rigorous research at Sharif University and collaborations with the University of Toronto. My goal is to advance the field of computer vision through impactful research and mentoring the next generation of engineers.
 
----
+Hello, I’m **Amir Mohammad Babaei**, a Master's student in **Computer Engineering** at **Sharif University of Technology (SUT)**. My research primarily focuses on **image processing**, **deep generative models**, and **graph neural networks**. 
 
-## 🎓 Education
-
-- __Sharif University of Technology__  
-  _M.Sc. in Computer Engineering, Artificial Intelligence and Robotics_  
-  Sep 2023 - Present  
-  - GPA: 18.30/20
-  - Member of Sharif Image Processing Lab (Sharif IPL)
-    - currently, working on "Blind Image Super-Resolution using Generative Models" project.
-
-- __Amirkabir University of Technology__  
-  _B.Sc. in Computer Engineering_  
-  Sep 2019 - Sep 2023  
-  - GPA: 19.09/20 | Ranked __4th__ among 149 students  
-  - __Thesis__: Design and Implementation of a Novel Spatiotemporal Method for Urban Traffic Prediction using SCINet and Graph Convolution Networks.
+*I am currently looking for PhD opportunities to further my academic journey.*
 
 ---
 
-## 💼 Professional Experience
+### Academic Background
 
-- __Computer Vision Engineer__  
-  _Freelance_  
-  Feb 2024 - Aug 2024  
-  - Enhanced imagery from airborne and spaceborne sources using advanced processing techniques for seamless pipeline integration.
-
-- __Data Scientist__  
-  _Bale Messenger_  
-  May 2023 - Feb 2024  
-  - Worked on data-driven projects, including a channel (subjective) classifier, channel recommender, and intelligent Ad systems.
-
-- __Machine Learning Engineer__  
-  _Asr Gooyesh Pardaz_  
-  Sep 2022 - Mar 2023  
-  - Explored Nvidia NeMo for Persian ASR tasks and developed a simple FAQ chatbot using RASA to do customer management services.
+| Degree | University | GPA | Thesis |
+|--------|-------------|-----|--------|
+| **MSc in Computer Engineering** (Artificial Intelligence & Robotics) | Sharif University of Technology (SUT) | 18.33/20 (4.00/4.00) | Blind Image Super-Resolution using Deep Generative Neural Network Architectures |
+| **BSc in Computer Engineering** | Amirkabir University of Technology (AUT) | 19.09/20 (3.96/4.00) | Graph-based Convolutional Multivariate Time Series Forecasting Approach for Urban Traffic Forecasting |
 
 ---
 
-## 🛠 Skills
-
-- __Programming Languages__: `Python`, `Java`, `C/C++`
-- __Tools__: `Git`, `Linux`, `Docker`, `Kubernetes`, `GDAL`, `LaTeX`, `ffmpeg`, `Selenium`, `SQL`
-- __Frameworks & Libraries__: `TensorFlow`, `PyTorch`, `JAX`, `Keras`, `OpenCV`, `Scikit-learn`, `Django`, `FastAPI`
-
----
-
-## 🏆 Honors and Awards
-
-- __2023__: Admitted to M.Sc. at Sharif University of Technology based on exceptional academic performance.
-- __2023__: Ranked 4th among 149 students in the Computer Engineering program at Amirkabir University of Technology.
-- __2019__: Among the top 2% in the Iranian University Entrance Exam.
+### Research Interests
+- **Image Super-Resolution**
+- **Image Restoration**
+- **Deep Generative Models** (VAEs, GANs, Diffusion Models)
+- **Computer Vision**
+- **Natural Language Processing**
+- **Graph Neural Networks**
 
 ---
 
-## 📚 Research Experience
+### Publications and Ongoing Work
 
-- __Sharif University of Technology__  
-  _Image Processing Lab (IPL)_  
-  - Advisor: Dr. Shohreh Kasaei  
-  - Nov 2023 - Present
-  - Thesis: "Blind Image Super-Resolution using Generative Models"
+- **CLBSR: A Deep Curriculum Learning-based Blind Image Super-Resolution Network using Geometrical Prior**  
+  *Submitted to Image and Vision Computing Journal, July 2024*
 
-- __Amirkabir University of Technology__  
-  - Advisor: Dr. Maryam Amirmazlaghani  
-  - Sep 2022 - Present  
-  - Thesis: “Design and Implementation of Urban Traffic Forecasting System”
+- **GSCINet: Graph-based Convolutional Multivariate Time Series Forecasting Approach for Urban Traffic Forecasting**  
+  *In preparation*
 
-- __University of Toronto__  
-  _Dept of Computer Science (Remote)_  
-  - Advisor: Dr. Alireza Esmaeilzehi  
-  - Nov 2022 - Nov 2023  
-  - Co-authored and submitted a paper on advanced machine learning and computer vision research.
+<!-- Visit my [Google Scholar profile](https://scholar.google.com/citations?user=mvx4PvgAAAAJ&hl=en) for a detailed list of my publications. -->
 
 ---
 
-## 📄 Publications
-
-- __In Preparation__  
-  - "New Kernel Estimation Method for Blind Image Super-Resolution" – Image and Vision Computing Journal  
-  - "Novel Approach to Traffic Forecasting Using Time Series Models and Graph Convolution Networks"
-
----
-
-## 👨‍🏫 Teaching Experience
-
-- __Fundamentals of 3D Computer Vision Teaching Assistant__  
-  _Sharif University of Technology_  
-  - Feb 2024 - Jul 2024  
-  - Supervised by Dr. Naderi
-
-- __Data Mining Teaching Assistant__  
-  _Amirkabir University of Technology_  
-  - Feb 2023 - Jul 2023  
-    - (Head) Supervised by Dr. Nazerfard
-
-- __Applied Linear Algebra Teaching Assistant__  
-  _Amirkabir University of Technology_  
-  - Feb 2023 - Jul 2023
-    - Supervised by Dr. AmirMazlaghani
-  - Feb 2022 - Jul 2022
-    - Supervised by Dr. Haghir Chegreghani
-  - Sep 2021 - Feb 2022  
-    - (Head) Supervised by Dr. Nazerfard
-
-- __Signals and Systems Teaching Assistant__  
-  _Amirkabir University of Technology_  
-  - Feb 2022 - Jul 2022 
-    - Supervised by Dr. TermehChi
-
-- __Data Structures and Algorithms Teaching Assistant__  
-  _Amirkabir University of Technology_  
-  - Sep 2021 - Feb 2022 
-    - Supervised by Dr. Shirali Shahreza
-
-- __Fundamental Programming Teaching Assistant__  
-  _Amirkabir University of Technology_  
-  - Sep 2021 - Feb 2022 
-    - Supervised by Eng. Alvani
+### Teaching Assitance
+| Date | Course | Supervisor | University | 
+|------|--------|------------|:----------:|
+| Fall 2024 | Deep Learning | Dr. Beigy | SUT |
+| Fall 2024 | Advanced 3D Computer Vision | Dr. Kasaei | SUT |
+| Spring 2024 | Fundamental of 3D Computer Vision | Dr. Naderi | SUT |
+| Spring 2023 | Data Mining | Dr. Nazerfard | AUT |
+| Spring 2023 | Applied Linear Algebra | Dr. AmirMazlaghani | AUT |
+| Spring 2022 | Signals and Systems | Dr. TermehChi | AUT |
+| Spring 2022 | Applied Linear Algebra | Dr. Chehreghani | AUT
+| Fall 2022 | Applied Linear Algebra | Dr. Nazerfard | AUT |
+| fall 2022 | Data Structures and Algorithms | Dr. Shirali Shahreza | AUT |
 
 ---
 
-## 🌱 Continuous Learning
+### Projects
 
-- Completed various online courses including:
-  - Coursera Machine Learning & Deep Learning series
-  - Stanford CS224n: NLP with Deep Learning
-  - Stanford CS224W: Machine Learning with Graphs
-  - Stanford CS236: Deep Generative Models
+| Project | Description | Link |
+|---------|-------------|------|
+| **Deep Learning Homework** | Includes dimensionality reduction, autoencoders, graph embeddings, and reinforcement learning tasks using methods like PCA, t-SNE, VAE | [View on GitHub](https://github.com/AmirMohamadBabaee/Deep-Learning-Homework) |
+| **Deep Generative Models Homework** | Implementations of VAEs, GANs, Diffusion Models (DDPMs), and Energy-Based Models (EBMs) on datasets like MNIST and CIFAR-10 | [View on GitHub](https://github.com/AmirMohamadBabaee/Deep-Generative-Models-Homework) |
+| **Digital Image Processing Homework** | Solutions to assignments covering filtering, transformations, compression, and segmentation | [View on GitHub](https://github.com/AmirMohamadBabaee/Digital-Image-Processing-Homework) |
+
+For a full list of my projects, visit my [GitHub profile](https://github.com/AmirMohamadBabaee).
 
 ---
 
+### Skills and Expertise
+
+- **Programming Languages**: Python, Java, C/C++, MATLAB
+- **Frameworks & Libraries**: PyTorch, PyTorch Geometric, TensorFlow, Hugging Face, JAX, OpenCV
+- **Tools**: Git, Linux, Bash, CUDA, FFmpeg, $\LaTeX$
+- **Data Science**: Numpy, Pandas, Scikit-learn, Matplotlib
+
+---
+
+### Contact Information
+
+- **Email**: [amirmohamad.babaei79@gmail.com](mailto:amirmohamad.babaei79@gmail.com)
+- **LinkedIn**: [Amir Mohammad Babaei](https://www.linkedin.com/in/amirmohammad-babaei)
+
+I am always open to discussing potential **PhD positions** and **collaborative research**. Please feel free to reach out!
