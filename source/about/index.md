@@ -13,7 +13,7 @@ Hello, I’m **Amir Mohammad Babaei**, a Master's student in **Computer Engineer
 
 ---
 
-### Academic Background
+### Education
 
 | Degree | University | GPA | Thesis |
 |--------|-------------|-----|--------|
@@ -44,7 +44,7 @@ Hello, I’m **Amir Mohammad Babaei**, a Master's student in **Computer Engineer
 
 ---
 
-### Teaching Assitance
+### Teaching Assistance
 | Date | Course | Supervisor | University | 
 |------|--------|------------|:----------:|
 | Fall 2024 | Deep Learning | Dr. Beigy | SUT |
@@ -82,7 +82,7 @@ For a full list of my projects, visit my [GitHub profile](https://github.com/Ami
 
 ### Contact Information
 
-- **Email**: [amirmohamad.babaei79@gmail.com](mailto:amirmohamad.babaei79@gmail.com)
+- **Email**: [amir.m.babaei.academic@gmail.com](mailto:amir.m.babaei.academic@gmail.com)
 - **LinkedIn**: [Amir Mohammad Babaei](https://www.linkedin.com/in/amirmohammad-babaei)
 
 I am always open to discussing potential **PhD positions** and **collaborative research**. Please feel free to reach out!
