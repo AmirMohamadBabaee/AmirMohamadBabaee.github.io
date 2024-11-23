@@ -25,6 +25,7 @@ Hello, I’m **Amir Mohammad Babaei**, a Master's student in **Computer Engineer
 ### Research Interests
 - **Image Super-Resolution**
 - **Image Restoration**
+- **Image and Video Segmentation**
 - **Deep Generative Models** (VAEs, GANs, Diffusion Models)
 - **Computer Vision**
 - **Natural Language Processing**
@@ -33,6 +34,9 @@ Hello, I’m **Amir Mohammad Babaei**, a Master's student in **Computer Engineer
 ---
 
 ### Publications and Ongoing Work
+
+- **KeyVIS: Improving Weakly-supervised Video Instance Segmentation Using Keypoints Consistency**  
+  *Submitted to Computer Vision and Image Understanding Journal, November 2024*
 
 - **CLBSR: A Deep Curriculum Learning-based Blind Image Super-Resolution Network using Geometrical Prior**  
   *Submitted to Image and Vision Computing Journal, July 2024*
@@ -77,6 +81,17 @@ For a full list of my projects, visit my [GitHub profile](https://github.com/Ami
 - **Frameworks & Libraries**: PyTorch, PyTorch Geometric, TensorFlow, Hugging Face, JAX, OpenCV
 - **Tools**: Git, Linux, Bash, CUDA, FFmpeg, $\LaTeX$
 - **Data Science**: Numpy, Pandas, Scikit-learn, Matplotlib
+
+---
+
+### Languages
+- **English** 
+  - TOEFL iBT: 101
+    - Reading: 28
+    - Listening: 27
+    - Speaking: 23
+    - Writing: 23
+- **Persian** (Native)
 
 ---
 
