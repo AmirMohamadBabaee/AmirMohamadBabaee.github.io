@@ -3,13 +3,16 @@ layout: about
 ---
 
 <p align="center">
-  <img src="/images/profile.jpeg" alt="" width="50%">
+  <img class="rounded-3xl w-[50%] hover:scale-[1.04] transition-transform" src="/images/profile.jpeg" alt="" width="50%">
 </p>
 
+---
 
-Hello, I’m **Amir Mohammad Babaei**, a Master's student in **Computer Engineering** at **Sharif University of Technology (SUT)**. My research primarily focuses on **image processing**, **deep generative models**, and **graph neural networks**. 
-
-*I am currently looking for PhD opportunities to further my academic journey.*
+<div align="center">
+  <i>
+    I am currently looking for PhD opportunities in Fall 2025 to further my academic journey.
+  </i>
+</div>
 
 ---
 
@@ -17,16 +20,16 @@ Hello, I’m **Amir Mohammad Babaei**, a Master's student in **Computer Engineer
 
 | Degree | University | GPA | Thesis |
 |--------|-------------|-----|--------|
-| **MSc in Computer Engineering** (Artificial Intelligence & Robotics) | Sharif University of Technology (SUT) | 18.33/20 (4.00/4.00) | Blind Image Super-Resolution using Deep Generative Neural Network Architectures |
+| **MSc in Computer Engineering** (Artificial Intelligence & Robotics) | Sharif University of Technology (SUT) | 18.32/20 (4.00/4.00) | Blind Image Super-Resolution using Deep Generative Neural Network Architectures |
 | **BSc in Computer Engineering** | Amirkabir University of Technology (AUT) | 19.09/20 (3.96/4.00) | Graph-based Convolutional Multivariate Time Series Forecasting Approach for Urban Traffic Forecasting |
 
 ---
 
 ### Research Interests
-- **Image Super-Resolution**
-- **Image Restoration**
-- **Image and Video Segmentation**
+- **Image/Video Restoration**
 - **Deep Generative Models** (VAEs, GANs, Diffusion Models)
+- **3D Vision Reconstruction** (e.g., NeRF, Gaussian Splatting)
+- **Image and Video Segmentation**
 - **Computer Vision**
 - **Natural Language Processing**
 - **Graph Neural Networks**
@@ -35,16 +38,16 @@ Hello, I’m **Amir Mohammad Babaei**, a Master's student in **Computer Engineer
 
 ### Publications and Ongoing Work
 
+- **CLBSR: A Deep Curriculum Learning-based Blind Image Super-Resolution Network using Geometrical Prior**  
+  *Published in Image and Vision Computing Journal, February 2025* [(DOI)](https://www.sciencedirect.com/science/article/pii/S0262885624004694)
+
 - **KeyVIS: Improving Weakly-supervised Video Instance Segmentation Using Keypoints Consistency**  
   *Submitted to Computer Vision and Image Understanding Journal, November 2024*
-
-- **CLBSR: A Deep Curriculum Learning-based Blind Image Super-Resolution Network using Geometrical Prior**  
-  *Submitted to Image and Vision Computing Journal, July 2024*
 
 - **GSCINet: Graph-based Convolutional Multivariate Time Series Forecasting Approach for Urban Traffic Forecasting**  
   *In preparation*
 
-<!-- Visit my [Google Scholar profile](https://scholar.google.com/citations?user=mvx4PvgAAAAJ&hl=en) for a detailed list of my publications. -->
+For a full list of my publications, visit my [Google Scholar](https://scholar.google.com/citations?user=8I5IRE0AAAAJ&hl=en).
 
 ---
 
@@ -57,9 +60,17 @@ Hello, I’m **Amir Mohammad Babaei**, a Master's student in **Computer Engineer
 | Spring 2023 | Data Mining | Dr. Nazerfard | AUT |
 | Spring 2023 | Applied Linear Algebra | Dr. AmirMazlaghani | AUT |
 | Spring 2022 | Signals and Systems | Dr. TermehChi | AUT |
-| Spring 2022 | Applied Linear Algebra | Dr. Chehreghani | AUT
 | Fall 2022 | Applied Linear Algebra | Dr. Nazerfard | AUT |
-| fall 2022 | Data Structures and Algorithms | Dr. Shirali Shahreza | AUT |
+| Fall 2022 | Data Structures and Algorithms | Dr. Shirali Shahreza | AUT |
+
+---
+
+### Professional Experience
+
+| Position | Organization | Duration | Description |
+|----------|--------------|----------|-------------|
+| **Data Scientist** | Bale Messenger | May 2023 - Feb. 2024 | Contributed to projects including channel classifier, recommender systems, and intelligent advertisement systems. |
+| **Research Intern** | Asr Gooyesh Pardaz | Jul. 2022 - Sep. 2022 | Developed audiovisual speech recognition for Persian language and created Persian audiovisual datasets. |
 
 ---
 
@@ -79,7 +90,7 @@ For a full list of my projects, visit my [GitHub profile](https://github.com/Ami
 
 - **Programming Languages**: Python, Java, C/C++, MATLAB
 - **Frameworks & Libraries**: PyTorch, PyTorch Geometric, TensorFlow, Hugging Face, JAX, OpenCV
-- **Tools**: Git, Linux, Bash, CUDA, FFmpeg, $\LaTeX$
+- **Tools**: Git, Linux, Bash, CUDA, FFmpeg, LangChain, AWS EC2, $\LaTeX$
 - **Data Science**: Numpy, Pandas, Scikit-learn, Matplotlib
 
 ---
@@ -87,10 +98,9 @@ For a full list of my projects, visit my [GitHub profile](https://github.com/Ami
 ### Languages
 - **English** 
   - TOEFL iBT: 101
-    - Reading: 28
-    - Listening: 27
-    - Speaking: 23
-    - Writing: 23
+    | Reading | Listening | Speaking | Writing |
+    |:-------:|:---------:|:--------:|:-------:|
+    | 28 | 27 | 23 | 23 | 
 - **Persian** (Native)
 
 ---
@@ -99,5 +109,6 @@ For a full list of my projects, visit my [GitHub profile](https://github.com/Ami
 
 - **Email**: [amir.m.babaei.academic@gmail.com](mailto:amir.m.babaei.academic@gmail.com)
 - **LinkedIn**: [Amir Mohammad Babaei](https://www.linkedin.com/in/amirmohammad-babaei)
+- **Google Scholar**: [Amir Mohammad Babaei](https://scholar.google.com/citations?user=8I5IRE0AAAAJ&hl=en)
 
 I am always open to discussing potential **PhD positions** and **collaborative research**. Please feel free to reach out!
