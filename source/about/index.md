@@ -3,7 +3,7 @@ layout: about
 ---
 
 <p align="center">
-  <img class="rounded-3xl w-[50%] hover:scale-[1.04] transition-transform" src="/images/profile.jpeg" alt="" width="50%">
+  <img class="rounded-3xl w-[50%] hover:scale-[1.04] transition-transform" src="/images/profile.jpg" alt="" width="50%">
 </p>
 
 ---
@@ -26,10 +26,10 @@ layout: about
 ---
 
 ### Research Interests
-- **Image/Video Restoration**
 - **Deep Generative Models** (VAEs, GANs, Diffusion Models)
-- **3D Vision Reconstruction** (e.g., NeRF, Gaussian Splatting)
 - **Image and Video Segmentation**
+- **Image/Video Restoration**
+- **3D Vision Reconstruction** (e.g., NeRF, Gaussian Splatting)
 - **Computer Vision**
 - **Natural Language Processing**
 - **Graph Neural Networks**
@@ -37,6 +37,9 @@ layout: about
 ---
 
 ### Publications and Ongoing Work
+
+- **A Comprehensive Survey on Knowledge Distillation**
+  *Preprint published on ArXiv, March 2025* [(ArXiv)](https://arxiv.org/abs/2503.12067)
 
 - **CLBSR: A Deep Curriculum Learning-based Blind Image Super-Resolution Network using Geometrical Prior**  
   *Published in Image and Vision Computing Journal, February 2025* [(DOI)](https://www.sciencedirect.com/science/article/pii/S0262885624004694)
@@ -54,14 +57,15 @@ For a full list of my publications, visit my [Google Scholar](https://scholar.go
 ### Teaching Assistance
 | Date | Course | Supervisor | University | 
 |------|--------|------------|:----------:|
-| Fall 2024 | Deep Learning | Dr. Beigy | SUT |
-| Fall 2024 | Advanced 3D Computer Vision | Dr. Kasaei | SUT |
+| Spring 2025 | Digital Image Processing | Prof. Kasaei | SUT |
+| Fall 2024 | Deep Learning | Prof. Beigy | SUT |
+| Fall 2024 | Advanced 3D Computer Vision | Prof. Kasaei | SUT |
 | Spring 2024 | Fundamental of 3D Computer Vision | Dr. Naderi | SUT |
-| Spring 2023 | Data Mining | Dr. Nazerfard | AUT |
-| Spring 2023 | Applied Linear Algebra | Dr. AmirMazlaghani | AUT |
+| Spring 2023 | Data Mining | Prof. Nazerfard | AUT |
+| Spring 2023 | Applied Linear Algebra | Prof. AmirMazlaghani | AUT |
 | Spring 2022 | Signals and Systems | Dr. TermehChi | AUT |
-| Fall 2022 | Applied Linear Algebra | Dr. Nazerfard | AUT |
-| Fall 2022 | Data Structures and Algorithms | Dr. Shirali Shahreza | AUT |
+| Fall 2022 | Applied Linear Algebra | Prof. Nazerfard | AUT |
+| Fall 2022 | Data Structures and Algorithms | Prof. Shirali Shahreza | AUT |
 
 ---
 
@@ -70,7 +74,7 @@ For a full list of my publications, visit my [Google Scholar](https://scholar.go
 | Position | Organization | Duration | Description |
 |----------|--------------|----------|-------------|
 | **Data Scientist** | Bale Messenger | May 2023 - Feb. 2024 | Contributed to projects including channel classifier, recommender systems, and intelligent advertisement systems. |
-| **Research Intern** | Asr Gooyesh Pardaz | Jul. 2022 - Sep. 2022 | Developed audiovisual speech recognition for Persian language and created Persian audiovisual datasets. |
+| **Machine Learning Engineer** | Asr Gooyesh Pardaz | Jul. 2022 - Sep. 2022 | Developed audiovisual speech recognition for Persian language and created Persian audiovisual datasets. |
 
 ---
 
