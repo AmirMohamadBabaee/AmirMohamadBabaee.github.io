@@ -8,11 +8,11 @@ layout: about
 
 ---
 
-<div align="center">
+<!-- <div align="center">
   <i>
     I am currently looking for PhD opportunities in Fall 2025 to further my academic journey.
   </i>
-</div>
+</div> -->
 
 ---
 
@@ -115,4 +115,4 @@ For a full list of my projects, visit my [GitHub profile](https://github.com/Ami
 - **LinkedIn**: [Amir Mohammad Babaei](https://www.linkedin.com/in/amirmohammad-babaei)
 - **Google Scholar**: [Amir Mohammad Babaei](https://scholar.google.com/citations?user=8I5IRE0AAAAJ&hl=en)
 
-I am always open to discussing potential **PhD positions** and **collaborative research**. Please feel free to reach out!
+I am always open to discussing potential **collaborative research**. Please feel free to reach out!
