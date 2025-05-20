@@ -38,6 +38,9 @@ layout: about
 
 ### Publications and Ongoing Work
 
+- **ConsistVIS: Weakly-Supervised Video Instance Segmentation via Embedding Vector Consistency**
+  *Submitted to ICCV 2025 Conference, March 2025*
+
 - **A Comprehensive Survey on Knowledge Distillation**
   *Preprint published on ArXiv, March 2025* [(ArXiv)](https://arxiv.org/abs/2503.12067)
 
@@ -85,6 +88,11 @@ For a full list of my publications, visit my [Google Scholar](https://scholar.go
 | **Deep Learning Homework** | Includes dimensionality reduction, autoencoders, graph embeddings, and reinforcement learning tasks using methods like PCA, t-SNE, VAE | [View on GitHub](https://github.com/AmirMohamadBabaee/Deep-Learning-Homework) |
 | **Deep Generative Models Homework** | Implementations of VAEs, GANs, Diffusion Models (DDPMs), and Energy-Based Models (EBMs) on datasets like MNIST and CIFAR-10 | [View on GitHub](https://github.com/AmirMohamadBabaee/Deep-Generative-Models-Homework) |
 | **Digital Image Processing Homework** | Solutions to assignments covering filtering, transformations, compression, and segmentation | [View on GitHub](https://github.com/AmirMohamadBabaee/Digital-Image-Processing-Homework) |
+| **Panorama** | Implementation of image stitching from scratch using the OpenCV library to create panoramic images.Implementation of image stitching from scratch using the OpenCV library to create panoramic images. | [View on GitHub](https://github.com/AmirMohamadBabaee/Panorama) |
+| **URL-Shortener-as-a-Service** | Developed a simple URL shortener service configured to run in a Kubernetes cluster. | [View on GitHub](https://github.com/AmirMohamadBabaee/URL-Shortener-as-a-service) |
+| **Information Retrieval Notebooks** | Completed assignments for the Information Retrieval course at Amirkabir University of Technology, including a final project using ElasticSearch to implement Boolean Queries, Similarity Modulation, and Spell
+Correction. | [View on GitHub](https://github.com/AmirMohamadBabaee/Information-Retrieval-notebooks) |
+| **Monitoring System** | Developed a monitoring system for the Computer Networks course to track system states and store them in Prometheus. | [View on GitHub](https://github.com/AmirMohamadBabaee/CN-Monitoring-System) |
 
 For a full list of my projects, visit my [GitHub profile](https://github.com/AmirMohamadBabaee).
 
