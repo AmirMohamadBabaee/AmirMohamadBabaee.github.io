@@ -4,15 +4,18 @@
 
 # Site
 title: Amir Mohammad Babaei
-subtitle: 'Computer Engineering Graduate Student at Sharif University of Technology'
+subtitle: 'Computer Engineering M.Sc. Student @ Sharif University of Technology'
 description: |
-  I am a Master’s student in the Computer Engineering Department at <strong>Sharif University of Technology (SUT)</strong>, where I serve as a Research Assistant at the <a href='http://ipl.ce.sharif.edu/' target='_blank'><strong>Image Processing Lab (IPL)</strong></a> under the supervision of <a href='https://scholar.google.com/citations?user=mvx4PvgAAAAJ&hl=en', target='_blank'><strong>Prof. Shohreh Kasaei</strong></a>.  
+  I’m a computer vision researcher who enjoys turning tough visual problems into clean, reproducible solutions. I’m doing my M.Sc. at Sharif University of Technology in the Image Processing Lab (IPL), where I work at the intersection of generative models and super-resolution, lately exploring diffusion-based approaches for hard, blind settings. 
 
-  My research focuses on <strong>Computer Vision</strong>, <strong>Image/Video Processing</strong>, and <strong>Machine Learning Applications</strong>. I am particularly interested in topics such as image and video super-resolution, efficient generative models, and 3D vision reconstruction techniques like NeRF and Gaussian Splatting.  
+  Along the way, I’ve been lucky to learn from outstanding mentors. At IPL (advised by Prof. Shohreh Kasaei), I’ve built and evaluated models with care (tight ablations, clear baselines, and code that others can run). I also collaborated with Dr. Alireza Esmaeilzehi on image super-resolution ideas and kernel-estimation theory, which sharpened my taste for practical yet principled research.
 
-  I have also collaborated with <a href='https://scholar.google.ca/citations?user=WAISKYYAAAAJ&hl=en' target='_blank'><strong>Dr. Alireza Esmaeilzehi</strong></a>, where I worked on image super-resolution research and contributed to the theoretical development of kernel estimation methods. Additionally, I gained valuable experience in machine learning and its applications while working under the supervision of <a href='https://scholar.google.com/citations?user=gxbTUfEAAAAJ&hl=en' target='_blank'><strong>Prof. Maryam Amirmazlaghani</strong></a> during my undergraduate studies at <strong>Amirkabir University of Technology (AUT)</strong>.  
+  <b>What I work with.</b> PyTorch, diffusion/VAEs/GANs, BasicSR/KAIR/MMCV, Detectron, OpenCV, CUDA, Transformers; rigorous evaluation, dataset hygiene, experiment tracking, and readable research code. (If you’re building in these areas (or teaching them) I’m your person.)
 
-  I am passionate about solving challenging problems and collaborating with researchers to advance the frontiers of artificial intelligence and computer vision.
+  <b>What I’m aiming for.</b> I love collaborating on projects that sit where theory meets deployment: efficient generative models, blind SR, and multimodal vision tasks. If you’re exploring these topics, I’d love to connect.
+
+  Links:
+  — Lab: <a href='https://ipl.ce.sharif.edu/' target='_blank'>Image Processing Lab (IPL), SUT</a> · Advisor: <a href='https://scholar.google.com/citations?user=mvx4PvgAAAAJ&hl=en' target='_blank'>Prof. Shohreh Kasaei</a> · Collaborator: <a href='https://scholar.google.com/citations?hl=en&user=WAISKYYAAAAJ' target='_blank'>Dr. Alireza Esmaeilzehi</a>.
 
 keywords:
 author: Amir Mohammad Babaei

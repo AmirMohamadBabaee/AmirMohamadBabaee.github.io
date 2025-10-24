@@ -20,7 +20,7 @@ layout: about
 
 | Degree | University | GPA | Thesis |
 |--------|-------------|-----|--------|
-| **MSc in Computer Engineering** (Artificial Intelligence & Robotics) | Sharif University of Technology (SUT) | 18.32/20 (4.00/4.00) | Blind Image Super-Resolution using Deep Generative Neural Network Architectures |
+| **MSc in Computer Engineering** (Artificial Intelligence & Robotics) | Sharif University of Technology (SUT) | 18.40/20 (4.00/4.00) | Blind Image Super-Resolution using Deep Generative Neural Network Architectures |
 | **BSc in Computer Engineering** | Amirkabir University of Technology (AUT) | 19.09/20 (3.96/4.00) | Graph-based Convolutional Multivariate Time Series Forecasting Approach for Urban Traffic Forecasting |
 
 ---
@@ -31,6 +31,7 @@ layout: about
 - **Image/Video Restoration**
 - **3D Vision Reconstruction** (e.g., NeRF, Gaussian Splatting)
 - **Computer Vision**
+- **Knowledge Distillation**
 - **Natural Language Processing**
 - **Graph Neural Networks**
 
@@ -38,20 +39,19 @@ layout: about
 
 ### Publications and Ongoing Work
 
+- **KeyVIS: Improving Weakly-supervised Video Instance Segmentation Using Keypoints Consistency**  
+  *Submitted to Iranian Machine Vision and Image Processing Conference (MVIP), October 2025*
+
 - **ConsistVIS: Weakly-Supervised Video Instance Segmentation via Embedding Vector Consistency**
-  *Submitted to ICCV 2025 Conference, March 2025*
+  *Submitted to IEEE Transactions on Multimedia Journal, September 2025*
 
 - **A Comprehensive Survey on Knowledge Distillation**
-  *Preprint published on ArXiv, March 2025* [(ArXiv)](https://arxiv.org/abs/2503.12067)
+  *Published in Transactions on Machine Learning Research (TMLR), September 2025* [(DOI)](https://openreview.net/pdf?id=3cbJzdR78B) [(arXiv)](https://arxiv.org/abs/2503.12067)
 
 - **CLBSR: A Deep Curriculum Learning-based Blind Image Super-Resolution Network using Geometrical Prior**  
   *Published in Image and Vision Computing Journal, February 2025* [(DOI)](https://www.sciencedirect.com/science/article/pii/S0262885624004694)
 
-- **KeyVIS: Improving Weakly-supervised Video Instance Segmentation Using Keypoints Consistency**  
-  *Submitted to Computer Vision and Image Understanding Journal, November 2024*
-
-- **GSCINet: Graph-based Convolutional Multivariate Time Series Forecasting Approach for Urban Traffic Forecasting**  
-  *In preparation*
+- **GSCINet: Graph-based Convolutional Multivariate Time Series Forecasting Approach for Urban Traffic Forecasting** 
 
 For a full list of my publications, visit my [Google Scholar](https://scholar.google.com/citations?user=8I5IRE0AAAAJ&hl=en).
 
@@ -60,6 +60,7 @@ For a full list of my publications, visit my [Google Scholar](https://scholar.go
 ### Teaching Assistance
 | Date | Course | Supervisor | University | 
 |------|--------|------------|:----------:|
+| Fall 2025 | Advanced 3D Computer Vision | Prof. Kasaei | SUT |
 | Spring 2025 | Digital Image Processing | Prof. Kasaei | SUT |
 | Fall 2024 | Deep Learning | Prof. Beigy | SUT |
 | Fall 2024 | Advanced 3D Computer Vision | Prof. Kasaei | SUT |
@@ -102,7 +103,7 @@ For a full list of my projects, visit my [GitHub profile](https://github.com/Ami
 - **Programming Languages**: Python, Java, C/C++, MATLAB
 - **Frameworks & Libraries**: PyTorch, PyTorch Geometric, TensorFlow, Hugging Face, JAX, OpenCV
 - **Tools**: Git, Linux, Bash, CUDA, FFmpeg, LangChain, AWS EC2, $\LaTeX$
-- **Data Science**: Numpy, Pandas, Scikit-learn, Matplotlib
+- **Data Science**: Numpy, Pandas, Scikit-learn, Matplotlib, Gradio
 
 ---
 
